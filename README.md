@@ -1,5 +1,5 @@
 # terraform-s3module
-This blog post is all about managing the AWS S3 bucket using Terraform. Terraform provides three S3 resource
+This git repo is all about managing the AWS S3 bucket using Terraform. Terraform provides three S3 resource
 
 aws_s3_bucket
 aws_s3_bucket_object
